@@ -18,5 +18,5 @@ MonoBehaviour:
     Time to get out of here.\r\n\r\nWhat now?\r\n1. Mad sprint to the nearest airship.\r\n2.
     Quick scrounge for weapons, then mad sprint to the nearest airship."
   _nextStates:
-  - {fileID: 11400000, guid: b05e568f4cc5f3f48825e4c62c94ccee, type: 2}
-  - {fileID: 11400000, guid: f476c9b29e3000e4186e09dcefa2a729, type: 2}
+  - {fileID: 11400000, guid: d49bdd8d2966a3e4eba678ddfe9c9725, type: 2}
+  - {fileID: 11400000, guid: eb785a84c0d86fd48a21fa703a315288, type: 2}
